@@ -1,0 +1,113 @@
+1615987627295	geckodriver	INFO	Listening on 127.0.0.1:65076
+1615987630353	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\UTILIS~1\\AppData\\Local\\Temp\\rust_mozprofilem1aL81"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615987636550	Marionette	INFO	Listening on port 65084
+1615987636727	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pics-investir.lesechos.com/js/scripts.js, line 9: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.ultimedia.com/widgets/js/responsivev3.js?v=2.0.2.7537, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.ultimedia.com/widgets/js/responsivev3.js?v=2.0.2.7537, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://pics-investir.lesechos.com/js/scripts.js, line 9: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.ultimedia.com/widgets/js/responsivev3.js?v=2.0.2.7537, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.ultimedia.com/widgets/js/responsivev3.js?v=2.0.2.7537, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript warning: https://pics-investir.lesechos.com/js/scripts.js, line 9: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.ultimedia.com/widgets/js/responsivev3.js?v=2.0.2.7537, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.ultimedia.com/widgets/js/responsivev3.js?v=2.0.2.7537, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1615988593700	Marionette	INFO	Stopped listening on port 65084
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616148878748	geckodriver	INFO	Listening on 127.0.0.1:57284
+1616148881836	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\UTILIS~1\\AppData\\Local\\Temp\\rust_mozprofileiJSTlz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616148888212	Marionette	INFO	Listening on port 57293
+1616148888327	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pics-investir.lesechos.com/js/scripts.js, line 9: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.ultimedia.com/widgets/js/responsivev3.js?v=2.0.2.7537, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.ultimedia.com/widgets/js/responsivev3.js?v=2.0.2.7537, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://pics-investir.lesechos.com/js/scripts.js, line 9: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.ultimedia.com/widgets/js/responsivev3.js?v=2.0.2.7537, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.ultimedia.com/widgets/js/responsivev3.js?v=2.0.2.7537, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1616148922552	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: chrome://browser/content/browser.xhtml, line 1: TypeError: gContextMenu is null
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript warning: https://pics-investir.lesechos.com/js/scripts.js, line 9: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://pics-investir.lesechos.com/js/scripts.js, line 9: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.ultimedia.com/widgets/js/responsivev3.js?v=2.0.2.7537, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+JavaScript warning: https://www.ultimedia.com/widgets/js/responsivev3.js?v=2.0.2.7537, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1616149524469	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.warn: "Error fetching accessible details: " "server0.conn0.child3/accessible2749" (new Error("Protocol error (noSuchActor): No such actor for ID: server0.conn0.child3/accessible2749 from: server0.conn0.child3/accessible2749", "resource://devtools/shared/protocol/Front.js", 361))
+console.warn: "Error fetching accessible details: " "server0.conn0.child3/accessible2749" (new Error("Protocol error (noSuchActor): No such actor for ID: server0.conn0.child3/accessible2749 from: server0.conn0.child3/accessible2749", "resource://devtools/shared/protocol/Front.js", 361))
+JavaScript warning: https://pics-investir.lesechos.com/js/scripts.js, line 9: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.ultimedia.com/widgets/js/responsivev3.js?v=2.0.2.7537, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.ultimedia.com/widgets/js/responsivev3.js?v=2.0.2.7537, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://pics-investir.lesechos.com/js/scripts.js, line 9: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.ultimedia.com/widgets/js/responsivev3.js?v=2.0.2.7537, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.ultimedia.com/widgets/js/responsivev3.js?v=2.0.2.7537, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+JavaScript warning: https://pics-investir.lesechos.com/js/scripts.js, line 9: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.ultimedia.com/widgets/js/responsivev3.js?v=2.0.2.7537, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.ultimedia.com/widgets/js/responsivev3.js?v=2.0.2.7537, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+JavaScript warning: https://pics-investir.lesechos.com/js/scripts.js, line 9: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.ultimedia.com/widgets/js/responsivev3.js?v=2.0.2.7537, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.ultimedia.com/widgets/js/responsivev3.js?v=2.0.2.7537, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+JavaScript error: https://cdn.mediasquare.fr/prebid/prebid_msq.js, line 9: TypeError: t[0] is undefined
+JavaScript warning: https://pics-investir.lesechos.com/js/scripts.js, line 9: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.ultimedia.com/widgets/js/responsivev3.js?v=2.0.2.7537, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.ultimedia.com/widgets/js/responsivev3.js?v=2.0.2.7537, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+1616152721687	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pics-investir.lesechos.com/js/scripts.js, line 9: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.ultimedia.com/widgets/js/responsivev3.js?v=2.0.2.7537, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.ultimedia.com/widgets/js/responsivev3.js?v=2.0.2.7537, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+1616153337534	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pics-investir.lesechos.com/js/scripts.js, line 9: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1616158506141	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.ultimedia.com/widgets/js/responsivev3.js?v=2.0.2.7537, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.ultimedia.com/widgets/js/responsivev3.js?v=2.0.2.7537, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+JavaScript warning: https://pics-investir.lesechos.com/js/scripts.js, line 9: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+1616159123304	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.ultimedia.com/widgets/js/responsivev3.js?v=2.0.2.7537, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.ultimedia.com/widgets/js/responsivev3.js?v=2.0.2.7537, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+1616159208045	Marionette	INFO	Stopped listening on port 57293
